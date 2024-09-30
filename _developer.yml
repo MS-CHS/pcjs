@@ -66,6 +66,6 @@ archive:
   lcm:
     server: /lcm
   ms:
-    server: https://msarchive.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   kb:
-    server: https://jeffpar.github.io/kbarchive
+    server: https://ms-chs.github.io/pcjs/
