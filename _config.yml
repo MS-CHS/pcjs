@@ -55,22 +55,22 @@ plugins:
 
 software:
   decdisks:
-    server: https://decdisks.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   diskettes:
-    server: https://diskettes.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   gamedisks:
-    server: https://gamedisks.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   harddisks:
-    server: https://harddisks.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   miscdisks:
-    server: https://miscdisks.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   pcsigdisks:
-    server: https://pcsigdisks.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
 
 archive:
   lcm:
-    server: https://lcm.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   ms:
-    server: https://msarchive.pcjs.org
+    server: https://ms-chs.github.io/pcjs/
   kb:
-    server: https://jeffpar.github.io/kbarchive
+    server: https://ms-chs.github.io/pcjs/
